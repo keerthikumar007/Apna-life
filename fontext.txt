@@ -1,2 +1,1 @@
-https://github.com/keerthikumar007/Apna-life/raw/refs/heads/main/Roboto-Thin.ttf
 https://github.com/keerthikumar007/Apna-life/raw/refs/heads/main/EduAUVICWANTArrows-VariableFont_wght.ttf
