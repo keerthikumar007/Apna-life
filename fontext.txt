@@ -1,1 +1,2 @@
 https://github.com/keerthikumar007/Apnalife/raw/dd101243ba0b64ee8453bfb3aad4efaf9b9f1852/Oswald-Bold.ttf
+https://github.com/keerthikumar007/Apna-life/raw/refs/heads/main/Roboto-Thin.ttf
